@@ -1,2 +1,3 @@
 # js-code
-A code repo for javascript 
+A code repo for javascript
+Author - Priya Malviya
